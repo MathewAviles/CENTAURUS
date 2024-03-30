@@ -1,0 +1,9 @@
+workstation id=CEDENTAURUS.mssql.somee.com;
+packet size=4096;
+user id=mathewaviles_SQLLogin_1;
+pwd=q8ndp2uo3s;
+data source=CEDENTAURUS.mssql.somee.com;
+--DESKTOP-M5JF1O3\SQLEXPRESS--
+persist security info=False;
+initial catalog=CEDENTAURUS;
+TrustServerCertificate=True
