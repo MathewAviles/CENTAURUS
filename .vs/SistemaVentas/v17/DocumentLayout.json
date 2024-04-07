@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE66F26-7D0C-4099-B542-2B6A9C297945}|CapaDatos\\CapaDatos.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capadatos\\cd_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE66F26-7D0C-4099-B542-2B6A9C297945}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F90B27-E320-4A0C-9B74-D55679ED7BB7}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capaentidad\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F90B27-E320-4A0C-9B74-D55679ED7BB7}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46598D65-7F55-40C8-A786-A681499D2C0E}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46598D65-7F55-40C8-A786-A681499D2C0E}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\juana\\onedrive\\documentos\\sistemaventas\\capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\capapresentacion\\utilidades\\opcioncombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA21154D-8F11-4903-B148-B47617687B68}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\utilidades\\opcioncombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +49,120 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\App.config",
               "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
               "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\App.config",
               "RelativeToolTip": "CapaPresentacion\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-03-25T01:23:38.683Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:16:35.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\packages.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\packages.config",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\packages.config",
+              "RelativeToolTip": "CapaPresentacion\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-07T03:16:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaDatos\\CD_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Reporte.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaDatos\\CD_Reporte.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Reporte.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:14:40.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaEntidad\\ReporteVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\ReporteVenta.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaEntidad\\ReporteVenta.cs",
+              "RelativeToolTip": "CapaEntidad\\ReporteVenta.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:13:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CN_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Reporte.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Reporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:13:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\FrmReportes.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmReportes.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAIwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:01:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpcionCombo.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "RelativeToolTip": "CapaPresentacion\\Utilidades\\OpcionCombo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:48:58.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\SistemaVentas\\CapaPresentacion\\FrmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:00:40.749Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

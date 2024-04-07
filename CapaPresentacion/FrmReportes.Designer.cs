@@ -116,7 +116,7 @@
             // 
             this.dtfechafin.CalendarFont = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtfechafin.CustomFormat = "dd/MM/yyyy";
-            this.dtfechafin.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtfechafin.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtfechafin.Location = new System.Drawing.Point(408, 80);
             this.dtfechafin.Name = "dtfechafin";
             this.dtfechafin.Size = new System.Drawing.Size(116, 22);
@@ -283,7 +283,7 @@
             this.FechaRegistro.MinimumWidth = 6;
             this.FechaRegistro.Name = "FechaRegistro";
             this.FechaRegistro.ReadOnly = true;
-            this.FechaRegistro.Width = 109;
+            this.FechaRegistro.Width = 125;
             // 
             // TipoDocumento
             // 
@@ -304,7 +304,7 @@
             // MontoTotal
             // 
             this.MontoTotal.HeaderText = "MontoTotal";
-            this.MontoTotal.MinimumWidth = 10;
+            this.MontoTotal.MinimumWidth = 6;
             this.MontoTotal.Name = "MontoTotal";
             this.MontoTotal.ReadOnly = true;
             this.MontoTotal.Width = 125;
